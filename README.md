@@ -15,7 +15,7 @@ Present insights in a clear, visual, and actionable way.
 
 ## 📊 Dataset
 
-The dataset includes quantitative variables relevant for prediction (e.g., sales, advertising spend, or customer behavior indicators). It was cleaned and prepared before modeling to ensure accuracy.
+The dataset includes quantitative variables relevant for prediction (e.g., sales, advertising spend, or customer behavior indicators). It was cleaned and prepared before modeling to ensure accuracy adn it has been uploaded here.
 
 ## 🛠️ Tools & Libraries
 
